@@ -47,6 +47,11 @@ En su apariencia le doto de una gran interactividad, con tonos suaves y un manej
 
 ![2023-05-15 (4) - copia](https://github.com/Carlosclementegarcia/w5-project_visualizacion/assets/129602687/685f656d-5943-45f9-b40f-98b738e86e5f)
 
+3. CONCLUSIÓN
+
+Configuro una herramienta con búsquedas simples pero claves, para poder establecer los Kpi's de la empresa o simplemente observar si va por el
+camino adecuado en sus 4 divisiones.
+
 
 
 
