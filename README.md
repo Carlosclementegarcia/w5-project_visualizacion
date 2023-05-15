@@ -9,4 +9,9 @@ el desarrollo de la empresa.
 
 2. DESARROLLO
 
+A. DATOS.
 
+Manejo una base de datos llamada classic-cars en formato excel, compuesta por 8 tablas
+
+
+![2023-05-15 (6)](https://github.com/Carlosclementegarcia/w5-project_visualizacion/assets/129602687/46435468-5052-45d7-964e-98fff5da75ef)
